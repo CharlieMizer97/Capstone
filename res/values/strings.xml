@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">Restaurant</string>
+    <string name="email">Email</string>
+    <string name="restaurant_selector">Restaurant Selector</string>
+    <string name="login_create_user">Login/Create User</string>
+    <string name="loginimage">loginImage</string>
+    <string name="password">password</string>
+    <string name="pass">Password</string>
+    <string name="home">Home</string>
+    <string name="random">Random</string>
+    <string name="swipe">Swipe</string>
+    <string name="navigation_drawer_open" />
+    <string name="navigation_drawer_close" />
+    <string name="let_s_eat">LET\'S EAT!</string>
+    <string name="let_eat">LET\'S EAT</string>
+    <string name="select">Select!</string>
+    <string name="title_activity_preferences">Preferences</string>
+    <!--
+    This string is used for square devices and overridden by hello_world in
+    values-round/strings.xml for round devices.
+    -->
+    <string name="hello_world">Hello Square World!</string>
+    <string name="accept" />
+    <string name="reject" />
+    <string name="don_t_add">Don\'t Add</string>
+    <string name="add">Add</string>
+    <string name="accepts">Accept</string>
+    <string name="rejects">Reject</string>
+    <string name="username">UserName</string>
+    <string name="title_location_permission">title_location_permission</string>
+    <string name="text_location_permission">text_location_permission</string>
+    <string name="ok">ok</string>
+    <string name="gener">Generate!</string>
+    <string name="charlie">Charlie</string>
+    <string name="cmizer676">CMizer676</string>
+    <string name="psWrd">Password:</string>
+    <string name="usrN">Username:</string>
+    <string name="long_click_to_remove_preference">Long Click to Remove Preference</string>
+    <string name="welcome">Welcome!</string>
+    <string name="test">Test</string>
+    <string name="mcdonalds">McDonalds</string>
+    <string name="tm">Baker’s Drive-Thru</string>
+    <string name="continue_to_maps">Continue to Maps</string>
+</resources>

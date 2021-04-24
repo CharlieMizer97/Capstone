@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/naviview_prfle"
+        android:title="Profile" />
+    <item
+        android:id="@+id/naviview_prefen"
+        android:title="Preferences" />
+    <item
+        android:id="@+id/naviview_faq"
+        android:title="FAQ's" />
+    <item
+        android:id="@+id/naviview_set"
+        android:title="Settings" />
+    <item
+        android:id="@+id/naviview_logout"
+        android:title="Log-Out" />
+    <item
+        android:id="@+id/naviview_exit"
+        android:title="Exit" />
+</menu>

@@ -1,0 +1,58 @@
+[
+  {
+    "url":"https://thumbor.thedailymeal.com/IuNAZEOg1iTCBm6IucoNYkn5BuA=//https://www.thedailymeal.com/sites/default/files/story/2018/mcdonaldsmain-dreamstime.JPG",
+    "name":"McDonalds",
+    "ratings":"3.4",
+    "latitude": "34.054890",
+    "longitude": "-117.175650",
+    "reviews": "1177"
+  },
+  {
+    "url":"https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-chickfila-1570879550.jpg",
+    "name":"Chick-fil-A",
+    "ratings":"4.4",
+    "latitude": "34.070590",
+    "longitude": "-117.203530",
+    "reviews": "2423"
+  },
+  {
+    "url":"https://raster-static.postmates.com/?url=com.postmates.img.prod.s3.amazonaws.com%2Fbf93039c-992f-4b12-b25d-90da33ab5092%2Forig.jpg",
+    "name":"Baker's Drive-Thru",
+    "ratings":"4.2",
+    "latitude": "34.053951",
+    "longitude": "-117.174232",
+    "reviews": "779"
+  },
+  {
+    "url":"https://upload.wikimedia.org/wikipedia/en/thumb/6/6e/Jack_in_the_Box_2009_logo.svg/1200px-Jack_in_the_Box_2009_logo.svg.png",
+    "name":"Jack in the Box",
+    "ratings":"3.9",
+    "latitude": "34.053951",
+    "longitude": "-117.174232",
+    "reviews": "536"
+  },
+  {
+    "url":"https://www.clickorlando.com/resizer/H2k9QNFo2TfMS5tpyEztcYMCGvo=/1280x720/smart/filters:format(jpeg):strip_exif(true):strip_icc(true):no_upscale(true):quality(65)/arc-anglerfish-arc2-prod-gmg.s3.amazonaws.com/public/DKBGITZ52RCRDH27RNX5MCVLDE.jpg",
+    "name":"Dairy Queen Grill & Chill",
+    "ratings":"4.0",
+    "latitude": "34.053710",
+    "longitude": "-117.174510",
+    "reviews": "386"
+  },
+  {
+    "url":"https://deltaco.com/images/food/category/combos.jpg",
+    "name":"Del Taco",
+    "ratings":"4.1",
+    "latitude": "34.0562199",
+    "longitude": "-117.1763968",
+    "reviews": "958"
+  },
+  {
+    "url":"https://pbs.twimg.com/media/EunLO_CVoAADFlQ.jpg",
+    "name":"Carl's Jr.",
+    "ratings":"3.9",
+    "latitude": "34.062908",
+    "longitude": "-117.1666657",
+    "reviews": "673"
+  }
+]
